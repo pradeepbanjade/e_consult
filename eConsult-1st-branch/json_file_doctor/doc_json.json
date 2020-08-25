@@ -1,0 +1,104 @@
+
+    
+     [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "name": "Dr. Hari Kafle",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "specialization": "Surgeon",
+            "experience":"6 years",
+            "present_city":"Kathmandu",
+            "hospital":"Bir Hospital"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "name": "Dr.Bishal Gawalli",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg",
+            "specialization": "Psychiatrist",
+            "experience":"4 years",
+            "present_city":"Kathmandu",
+            "hospital":"Medicity Hospital"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "name": "Dr.Pradeep Kumar Wango",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg",
+            "specialization": "Cardiologist",
+            "experience":"6 years",
+            "present_city":"Chitwan",
+            "hospital":"Bharatpur Hospital"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "name": "Dr.Mukesh Yadav",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg",
+            "specialization": "Dermatologist",
+            "experience":"5 year",
+            "present_city":"Kathmandu",
+            "hospital":"Teaching Hospital"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "name": "Dr.George",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg",
+            "specialization": "Endocrinologist",
+            "experience":"6 years",
+            "present_city":"Dharan",
+            "hospital":"Dharan Hospital"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "name": "Dr.Sumit Sah",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+            "specialization": "Nephrologist",
+            "experience":"6 years",
+            "present_city":"Kathmandu",
+            "hospital":"Bir Hospital"
+        },
+        {
+            "id": 13,
+            "email": "rachel.howell@reqres.in",
+            "name": "Dr.Ishan Devkota",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+            "specialization": "Surgeon",
+            "experience":"6 years",
+            "present_city":"Kathmandu",
+            "hospital":"Bir Hospital"
+        },
+        {
+            "id": 14,
+            "email": "rachel.howell@reqres.in",
+            "name": "Dr.Prabesh ",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+            "specialization": "Surgeon",
+            "experience":"6 years",
+            "present_city":"Kathmandu",
+            "hospital":"Bir Hospital"
+        },
+        {
+            "id": 15,
+            "email": "rachel.howell@reqres.in",
+            "name": "Dr.Rachel Green",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+            "specialization": "Surgeon",
+            "experience":"6 years",
+            "present_city":"Kathmandu",
+            "hospital":"Bir Hospital"
+        }
+    ]
+
